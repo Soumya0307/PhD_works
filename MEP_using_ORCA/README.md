@@ -1,6 +1,7 @@
 How to show:
+**0. Setup**
 
-
+Have two .xyz files for a molecule or reaction (Initial geometry and final geometry), then create an input file (.inp) for ORCA that commands to run the NEB calculation or whatever you require to calculate. Then run the ORCA inside the same folder where the .inp and .xyz files are to get the .out, .interp and other backup files. Command prompt: "Path where ORCA is stored" "input file name".inp -> "output file name".out 
 
 **1. To get TS geometry**
 
