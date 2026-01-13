@@ -1,0 +1,9 @@
+! B3LYP def2-SVP D4 NEB-TS
+
+%NEB
+  Nimages 7
+  NEB_END_XYZFILE "H_H2_r.xyz"
+end
+
+* xyzfile 0 1 H2_H_p.xyz
+*
